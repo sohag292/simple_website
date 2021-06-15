@@ -1,0 +1,226 @@
+ul{
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    text-align: right;
+}
+
+header{  
+    height: 600px;
+}
+
+li{
+    display: inline-block;
+   
+}
+li a{
+    display: inline-block;
+    padding: 14px 16px;
+    margin-right:10px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    color:#3C3C3C;   
+}
+
+.sub-head{
+    width: 85%;
+    margin: auto;
+   
+}
+.half-width{
+    width: 50%;
+    float: left; 
+}
+header img{
+    width: 75%;
+    margin-left: 60px;
+}
+.only-pad{
+    padding-top: 30px;
+}
+.extra{
+    padding-top: 20px;
+    
+}
+header h1{
+    margin-top: -85px;
+    font-family: Bebas Neue;
+    font-style: normal;
+    margin-bottom: -5px;
+    font-size: 80px;
+    color: #FF8367;
+}
+header h2{
+    font-size: 80px;
+    font-family: Bebas Neue;
+    color: #363958;
+}
+header p{
+    color: #3E3E3E;
+    width: 325px;
+    font-family: Roboto;
+    padding-bottom: 40px;
+    
+}
+.half-width a{
+    text-decoration: none;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    padding: 20px 59px;
+    border-radius: 5px;
+    color: white;
+}
+
+/* ####################################################################################### */
+/* ####################################################################################### */
+.about_section{
+    height: 600px;
+}
+
+.others{
+    padding-top: 120px;
+    margin-left: 120px;
+}
+.others h1{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: #363958
+}
+.about_section img{
+    width: 75%;
+    margin-left: 25px;
+}
+.others p{
+    width: 400px;
+    padding-bottom: 35px;
+    color: #3E3E3E;
+    font-family: Roboto;
+
+}
+.others a i{
+    margin-right: 5px;
+}
+/* ####################################################################################### */
+/* ####################################################################################### */
+.work_section {
+   background-color: #F8F8F8;
+    height: 600px;
+    padding-bottom: 70px;
+    margin-bottom: 100px;
+}
+.work_section h1{
+   font-size: 30px;
+   padding: 75px 0px 30px;
+}
+.last_left{
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+    padding: 15px;
+
+}
+.work_section .last_left{
+    width: 320px;
+    float: left;
+    margin-left: 25px;
+}
+.work_section img{
+    width: 100%;
+}
+.work_section h1{
+    text-align: center;
+    color: #363958;
+    font-style: normal;
+    font-family: Bebas Neue;
+    font-size: 50px;
+    
+}
+.work_section span{
+    color: #F46060;
+    font-style: normal;
+}
+.last_left h1{
+    color: #363958;
+}
+.last_left p{
+    margin-top: -15px;
+    color: #6C6C6C;
+    line-height: 25px;
+}
+/* ####################################################################################### */
+/* ####################################################################################### */
+.chat_section{
+    width: 1082px;
+    margin:auto;
+    padding-bottom: 50px;
+   
+}
+.image_last{
+    background-image: url("images/Group_33094_1.png");
+    width: 906px;
+    height: 225px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+.go_left {
+    text-align: left;
+    display: inline-block;
+    padding-top: 50px;
+    margin-left: 55px;
+}
+
+.go_left h1{
+    font-size: 45px;
+    font-family: Bebas Neue;
+    color: white;
+    letter-spacing: 4px;
+}
+
+.go_right {
+    display: inline;
+    margin-left: 435px;
+}
+
+.go_right a{
+    color: white;
+    background-color: #FF8063;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+/* ####################################################################################### */
+/* ####################################################################################### */
+
+footer h4{
+    font-family: Bebas Neue;
+    text-align: center;
+    color: #696871;
+    font-size: 24px;
+}
+footer h1{
+    text-align: center;
+    color: #363958;
+    margin-top: -15px;
+
+}
+.footer_center{
+    text-align: center;
+    
+
+}
+.footer_icon{
+    display: inline-block;
+}
+.footer_icon img{
+    width: 60px;
+    margin-left: 25px;
+   
+}
+
+
+
